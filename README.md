@@ -95,7 +95,7 @@ I am an versatile engineering professional with experience in data engineering, 
 #### ML & AI 
 
 <a href="https://huggingface.co" target="_blank">
-    <img align="left" src="icons/huggingface.svg" title="HuggingFace" alt="huggingface" height="42px">
+    <img align="left" src="icons/huggingface-color.svg" title="HuggingFace" alt="huggingface" height="42px">
 </a>
 
 <br><br>
