@@ -18,12 +18,18 @@ Here are some ideas to get you started:
 ## About Me
 ## Teck Stack
 ### Languages
-<p>
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg"                   title= "Python"     alt="python"     width="50" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"                 title= "JavaScript" alt="javascript" width="50" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"                             title= "Java"       alt="Java"       width="50" height="50"/> 
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title= "SQL"        alt="sql"        width="50" height="50"/> 
-</p>
+<a href="https://www.python.org" target="_blank"> 
+    <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" title="Python" alt="python" height="42px"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="javascript" height="42px"/> 
+</a>
+<a href="https://www.java.com" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="java" height="42px"/> 
+</a>
+<a href="https://learn.microsoft.com/en-us/sql/" target="_blank"> 
+    <img align="left" src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title="SQL" alt="sql" height="42px"/> 
+</a>
 
 <br>
 
