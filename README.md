@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 ![thehenke's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehenke&show_icons=true&theme=gotham)
+
+<a href="https://github.com/thehenke/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thehenke&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/thehenke/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehenke&layout=compact&langs_count=8&card_width=320" />
+</a>
