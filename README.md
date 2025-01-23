@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" title="Python" alt="python" height="42px"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="javascript" height="42px"/> 
+    <img  align="left" src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="javascript" height="42px" />
 </a>
 <a href="https://www.java.com" target="_blank"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="java" height="42px"/> 
