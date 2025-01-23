@@ -1,21 +1,13 @@
 ## Hi there 👋
 
-<!--
-**thehenke/thehenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About Me
+
+I am an engineering professional with experience in data engineering, data science and software engineering, specializing in financial services such as credit, collections and fraud prevention, with previous experience in the context of communications, digital marketing and risk management. I am proficient in various tech platform solution topics, like GCP and AWS.
+
+- 🛠  I’m currently working with Python, SQL and various data tools within Google Cloud Platform.
+- 🚀 I’m a MsC Computer Science student and I has been exploring AI Engineering area, LLMs, Generative AI, Transformers.
+- 🌱 I’m currently learning about Retrieval Augmented Generation (RAG) and LLMOps implementation.
+
 ## Tech Stack
 ### Languages
 <a href="https://www.python.org" target="_blank"> 
