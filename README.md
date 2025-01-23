@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## About Me
 ## Teck Stack
 ### Languages
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="python" width="50" height="50"/> 
+
 ### Databases
 ### Cloud Computing
 ### Tools
