@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" alt="airflow" width="50" height="50"/> 
 
 ## GitHub Stats
+![thehenke's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehenke&show_icons=true&theme=gotham)
