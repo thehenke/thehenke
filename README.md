@@ -19,13 +19,26 @@ Here are some ideas to get you started:
 ## Teck Stack
 ### Languages
 <p>
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg"                   title= "Python"     alt="python"     width="50" height="50" style="margin-right: 10px;"/> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"                 title= "JavaScript" alt="javascript" width="50" height="50" style="margin-right: 10px;"/> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"                             title= "Java"       alt="Java"       width="50" height="50" style="margin-right: 10px;"/> 
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title= "SQL"        alt="sql"        width="50" height="50" style="margin-right: 10px;"/> 
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg"                   title= "Python"     alt="python"     width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"                 title= "JavaScript" alt="javascript" width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"                             title= "Java"       alt="Java"       width="50" height="50"/> 
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title= "SQL"        alt="sql"        width="50" height="50"/> 
 </p>
 
 ### Databases
+
+<p>
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"               title= "BigQuery"   alt="bigquery"   width="50" height="50"/> 
+    <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/postgres.svg"                title= "PostgreSQL" alt="postgresql" width="50" height="50"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg"     title= "DynamoDB"   alt="dynamodb"   width="50" height="50"/> 
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/mysql.svg"                 title= "MySQL"      alt="mysql"      width="50" height="50"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title= "MongoDB"    alt="mongodb"    width="50" height="50"/> 
+    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg"    title= "BigTable"   alt="bigtable"   width="50" height="50"/> 
+    <img src=""                   title= ""     alt=""     width="50" height="50"/> 
+    <img src=""                   title= ""     alt=""     width="50" height="50"/> 
+    <img src=""                   title= ""     alt=""     width="50" height="50"/> 
+</p>
+
 ### Cloud Computing
 ### Tools
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" alt="airflow" width="50" height="50"/> 
