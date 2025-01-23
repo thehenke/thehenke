@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg" title="MySQL" alt="mysql" height="42px"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" alt="mongodb" height="42px"/> 
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="mongodb" height="42px" />
 </a>
 
 <br>
@@ -94,8 +94,9 @@ Here are some ideas to get you started:
     <img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="GraphQL" alt="graphql" height="42px"/> 
 </a>
 
-
-
+<a href="https://nodejs.org/en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="nodejs" height="42px" />
+</a>
 
 <br><br>
 
