@@ -79,7 +79,7 @@ Here are some ideas to get you started:
     <img align="left" src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" title="Apache Beam" alt="beam" height="42px"/> 
 </a>
 <a href="https://kafka.apache.org/" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" title="Apache Kafka" alt="kafka" height="42px"/> 
+    <img align="left "src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" alt="kafka" height="42px" />
 </a>
 
 <a href="https://www.docker.com/" target="_blank"> 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" title="Flask" alt="flask" height="42px"/> 
+    <img  align="left" src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" height="42px" />
 </a>
 
 <a href="https://graphql.org/" target="_blank"> 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="nodejs" height="42px" />
+    <img  align="left" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="nodejs" height="42px" />
 </a>
 
 <br><br>
