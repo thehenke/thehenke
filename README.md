@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 ## Teck Stack
 ### Languages
-<p align="center">
+<p>
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg"                   title= "Python" alt="python" width="50" height="50"/> 
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"                 title= "JavaScript" alt="javascript" width="50" height="50"/> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"                             title= "Java" alt="Java" width="50" height="50"/> 
