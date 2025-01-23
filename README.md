@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## Teck Stack
 ### Languages
 <p>
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg"                   title= "Python" alt="python" width="50" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"                 title= "JavaScript" alt="javascript" width="50" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"                             title= "Java" alt="Java" width="50" height="50"/> 
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title= "SQL" alt="sql" width="50" height="50"/> 
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg"                   title= "Python"     alt="python"     width="50" height="50" style="margin-right: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"                 title= "JavaScript" alt="javascript" width="50" height="50" style="margin-right: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"                             title= "Java"       alt="Java"       width="50" height="50" style="margin-right: 10px;"/> 
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title= "SQL"        alt="sql"        width="50" height="50" style="margin-right: 10px;"/> 
 </p>
 
 ### Databases
