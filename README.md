@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an versatile engineering professional with experience in data engineering, data science and software engineering, specializing in financial services such as credit, collections and fraud prevention, with previous experience in the context of communications, digital marketing and risk management. I am proficient in various tech platform solution topics, like GCP and AWS.
+I am an versatile engineering professional with experience in data engineering, data science and software engineering, specializing in financial products such as credit, collections and fraud prevention, with previous experience in the context of communications, digital marketing and risk management. I am proficient in various tech platform solution topics, like GCP and AWS.
 
 - 💻 I’m Data Engineering Specialist at Grupo Boticario, and I am currently working with Python, SQL and various data tools within Google Cloud Platform.
 - 🚀 I’m a MsC Computer Science student and I has been exploring AI Engineering area, LLMs, Generative AI, Transformers.
