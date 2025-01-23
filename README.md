@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 ### Databases
 ### Cloud Computing
 ### Tools
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" alt="airflow" width="50" height="50"/> 
 
 ## GitHub Stats
