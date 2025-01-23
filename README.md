@@ -60,6 +60,11 @@ Here are some ideas to get you started:
 <br>
 
 ### Cloud Computing
+
+<a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws,gcp" title="Cloud" alt="cloud" height="42px" />
+</a>
+
 ### Tools
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" alt="airflow" width="50" height="50"/> 
 
