@@ -4,7 +4,7 @@
 
 I am an engineering professional with experience in data engineering, data science and software engineering, specializing in financial services such as credit, collections and fraud prevention, with previous experience in the context of communications, digital marketing and risk management. I am proficient in various tech platform solution topics, like GCP and AWS.
 
-- 🛠  I’m currently working with Python, SQL and various data tools within Google Cloud Platform in a Data Engineering role at Grupo Boticario.
+- 🛠  I’m Data Engineering Specialist at Grupo Boticario, and I am currently working with Python, SQL and various data tools within Google Cloud Platform.
 - 🚀 I’m a MsC Computer Science student and I has been exploring AI Engineering area, LLMs, Generative AI, Transformers.
 - 🌱 I’m currently learning about Retrieval Augmented Generation (RAG) and LLMOps implementation.
 
@@ -46,7 +46,7 @@ I am an engineering professional with experience in data engineering, data scien
     <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg" title="MySQL" alt="mysql" height="42px"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="mongodb" height="42px" />
+    <img  align="left" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="mongodb" height="42px" />
 </a>
 
 <br>
@@ -54,10 +54,10 @@ I am an engineering professional with experience in data engineering, data scien
 ### Cloud Computing
 
 <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="aws" height="42px" />
+    <img  align="left" src="https://skillicons.dev/icons?i=aws" title="AWS" alt="aws" height="42px" />
 </a>
 <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="googlecloud" height="42px" />
+    <img  align="left" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="googlecloud" height="42px" />
 </a>
 
 ### Tools & Frameworks
