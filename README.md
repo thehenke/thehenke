@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me
 ## Teck Stack
+### Languages
+### Databases
+### Cloud Computing
+### Tools
+
 ## GitHub Stats
