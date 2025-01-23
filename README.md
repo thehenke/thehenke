@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-## Teck Stack
+## Tech Stack
 ### Languages
 <a href="https://www.python.org" target="_blank"> 
     <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" title="Python" alt="python" height="42px"/> 
@@ -61,15 +61,21 @@ Here are some ideas to get you started:
 
 ### Cloud Computing
 
-<a href="" target="_blank">
+<a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="aws" height="42px" />
 </a>
-<a href="" target="_blank">
+<a href="https://cloud.google.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="googlecloud" height="42px" />
 </a>
 
-### Tools
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" alt="airflow" width="50" height="50"/> 
+### Tools & Frameworks
+<a href="https://spark.apache.org/" target="_blank"> 
+    <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" title="Airflow" alt="airflow" height="42"/> 
+</a>
+<a href="https://spark.apache.org/" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" title="Apache Spark" alt="spark" height="42px"/> 
+</a>
+
 
 ## GitHub Stats
 <!-- ![thehenke's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehenke&show_icons=true&theme=gotham) -->
