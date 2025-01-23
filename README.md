@@ -82,6 +82,20 @@ Here are some ideas to get you started:
     <img align="left" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" title="Apache Kafka" alt="kafka" height="42px"/> 
 </a>
 
+<a href="https://www.docker.com/" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="docker" height="42px"/> 
+</a>
+
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" title="Flask" alt="flask" height="42px"/> 
+</a>
+
+<a href="https://graphql.org/" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="GraphQL" alt="graphql" height="42px"/> 
+</a>
+
+
+
 
 <br><br>
 
