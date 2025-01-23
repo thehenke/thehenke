@@ -28,15 +28,13 @@ Here are some ideas to get you started:
 ### Databases
 
 <p>
-    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigquery.svg"    title= "BigQuery"   alt="bigquery"   width="50" height="50"/> 
-    <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/postgres.svg"                title= "PostgreSQL" alt="postgresql" width="50" height="50"/> 
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/a/aws-dynamodb.svg"                   title= "DynamoDB"   alt="dynamodb"   width="50" height="50"/> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg"                       title= "MySQL"      alt="mysql"      width="50" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"                               title= "MongoDB"    alt="mongodb"    width="50" height="50"/> 
-    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg"    title= "BigTable"   alt="bigtable"   width="50" height="50"/> 
-    <!-- <img src=""                   title= ""     alt=""     width="50" height="50"/> 
-    <img src=""                   title= ""     alt=""     width="50" height="50"/> 
-    <img src=""                   title= ""     alt=""     width="50" height="50"/>  -->
+    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigquery.svg"    title= "BigQuery"      alt="bigquery"     width="50" height="50"/> 
+    <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/postgres.svg"                title= "PostgreSQL"    alt="postgresql"   width="50" height="50"/> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/a/aws-dynamodb.svg"                   title= "DynamoDB"      alt="dynamodb"     width="50" height="50"/> 
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg"                       title= "MySQL"         alt="mysql"        width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"                               title= "MongoDB"       alt="mongodb"      width="50" height="50"/> 
+    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg"    title= "BigTable"      alt="bigtable"     width="50" height="50"/> 
+    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/vertexai.svg"    title= "Feature Store" alt="featurestore" width="50" height="50"/> 
 </p>
 
 ### Cloud Computing
