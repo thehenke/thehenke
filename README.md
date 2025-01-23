@@ -23,7 +23,7 @@ I am an engineering professional with experience in data engineering, data scien
     <img align="left" src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title="SQL" alt="sql" height="42px"/> 
 </a>
 
-<br>
+<br><br>
 
 ### Databases
 
@@ -49,7 +49,7 @@ I am an engineering professional with experience in data engineering, data scien
     <img  align="left" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="mongodb" height="42px" />
 </a>
 
-<br>
+<br><br>
 
 ### Cloud Computing
 
@@ -59,6 +59,8 @@ I am an engineering professional with experience in data engineering, data scien
 <a href="https://cloud.google.com/" target="_blank">
     <img  align="left" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="googlecloud" height="42px" />
 </a>
+
+<br><br>
 
 ### Tools & Frameworks
 <a href="https://spark.apache.org/" target="_blank"> 
