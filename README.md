@@ -62,7 +62,10 @@ Here are some ideas to get you started:
 ### Cloud Computing
 
 <a href="" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,gcp" title="Cloud" alt="cloud" height="42px" />
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="aws" height="42px" />
+</a>
+<a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="googlecloud" height="42px" />
 </a>
 
 ### Tools
