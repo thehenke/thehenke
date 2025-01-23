@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 ## Teck Stack
 ### Languages
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" tooltip= "python" alt="python" width="50" height="50"/> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" title= "Python" alt="python" width="50" height="50"/> 
 
 ### Databases
 ### Cloud Computing
