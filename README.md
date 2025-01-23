@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 <!-- ![thehenke's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehenke&show_icons=true&theme=gotham) -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thehenke&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thehenke&repo=convoychat" />
+
+<a href="">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thehenke&hide_title=true&hide_border=true&show_icons=true&theme=gotham" /><!-- wi*quL3fcV -->
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehenke&layout=compact&langs_count=6&theme=gotham" />
 </a>
