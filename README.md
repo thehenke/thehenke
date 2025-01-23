@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 
 <a href="">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thehenke&hide_title=true&hide_border=true&show_icons=true&theme=gotham" /><!-- wi*quL3fcV -->
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehenke&layout=compact&langs_count=6&theme=gotham" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thehenke&hide_border=true&show_icons=true&theme=gotham" /><!-- wi*quL3fcV -->
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehenke&layout=compact&langs_count=6&theme=gotham%hide_border=true
 </a>
