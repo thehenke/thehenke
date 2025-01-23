@@ -25,17 +25,33 @@ Here are some ideas to get you started:
     <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title= "SQL"        alt="sql"        width="50" height="50"/> 
 </p>
 
+<br>
+
 ### Databases
 
-<p>
-    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigquery.svg"    title= "BigQuery"      alt="bigquery"     width="50" height="50"/> 
-    <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/postgres.svg"                title= "PostgreSQL"    alt="postgresql"   width="50" height="50"/> 
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/a/aws-dynamodb.svg"                   title= "DynamoDB"      alt="dynamodb"     width="50" height="50"/> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg"                       title= "MySQL"         alt="mysql"        width="50" height="50"/> 
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"                               title= "MongoDB"       alt="mongodb"      width="50" height="50"/> 
-    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg"    title= "BigTable"      alt="bigtable"     width="50" height="50"/> 
-    <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/vertexai.svg"    title= "Feature Store" alt="featurestore" width="50" height="50"/> 
-</p>
+<a href="https://cloud.google.com/bigquery" target="_blank"> 
+    <img align="left" src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigquery.svg" title="BigQuery" alt="bigquery" height="42px"/> 
+</a>
+<a href="https://cloud.google.com/bigtable" target="_blank"> 
+    <img align="left" src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg" title="BigTable" alt="bigtable" height="42px"/> 
+</a>
+<a href="https://cloud.google.com/vertex-ai" target="_blank"> 
+    <img align="left" src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/vertexai.svg" title="Feature Store" alt="featurestore" height="42px"/> 
+</a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"> 
+    <img align="left" src="https://github.com/detain/svg-logos/blob/master/svg/a/aws-dynamodb.svg" title="DynamoDB" alt="dynamodb" height="42px"/> 
+</a>
+<a href="https://www.postgresql.org/" target="_blank"> 
+    <img align="left" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/postgres.svg" title="PostgreSQL" alt="postgresql" height="42px"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank"> 
+    <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg" title="MySQL" alt="mysql" height="42px"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" alt="mongodb" height="42px"/> 
+</a>
+
+<br>
 
 ### Cloud Computing
 ### Tools
