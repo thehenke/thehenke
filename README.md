@@ -97,6 +97,12 @@ I am an versatile engineering professional with experience in data engineering, 
 <a href="https://huggingface.co" target="_blank">
     <img align="left" src="icons/huggingface-color.svg" title="HuggingFace" alt="huggingface" height="42px">
 </a>
+<a href="https://scikit-learn.org/stable/" target="_blank">
+    <img align="left" src="icons/scikitlearn-color.svg" title="Scikit-Learn" alt="scikitlearn" height="42px">
+</a>
+<a href="https://scikit-learn.org/stable/" target="_blank">
+    <img align="left" src="icons/langchain-color.svg" title="LangChain" alt="langchain" height="42px">
+</a>
 
 <br><br>
 
