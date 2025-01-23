@@ -75,9 +75,15 @@ Here are some ideas to get you started:
 <a href="https://spark.apache.org/" target="_blank"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" title="Apache Spark" alt="spark" height="42px"/> 
 </a>
+<a href="https://beam.apache.org/" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" title="Apache Beam" alt="beam" height="42px"/> 
+</a>
+<a href="https://kafka.apache.org/" target="_blank"> 
+    <img align="left" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" title="Apache Kafka" alt="kafka" height="42px"/> 
+</a>
 
 
-<br>
+<br><br>
 
 ## GitHub Stats
 <!-- ![thehenke's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehenke&show_icons=true&theme=gotham) -->
