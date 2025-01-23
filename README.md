@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/postgres.svg"                title= "PostgreSQL" alt="postgresql" width="50" height="50"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg"     title= "DynamoDB"   alt="dynamodb"   width="50" height="50"/> 
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/mysql.svg"                 title= "MySQL"      alt="mysql"      width="50" height="50"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title= "MongoDB"    alt="mongodb"    width="50" height="50"/> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/m/mongodb-icon-2.svg"                 title= "MongoDB"    alt="mongodb"    width="50" height="50"/> 
     <img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg"    title= "BigTable"   alt="bigtable"   width="50" height="50"/> 
     <img src=""                   title= ""     alt=""     width="50" height="50"/> 
     <img src=""                   title= ""     alt=""     width="50" height="50"/> 
