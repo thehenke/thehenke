@@ -112,6 +112,6 @@ I am an versatile engineering professional with experience in data engineering, 
 
 
 <a href="">
-    <img height="167px" src="https://github-readme-stats.vercel.app/api?username=thehenke&hide_border=true&show_icons=true&theme=gotham" /><!-- wi*quL3fcV -->
+    <img height="167px" src="https://github-readme-stats.vercel.app/api?username=thehenke&hide_border=true&show_icons=true&theme=dark&hide&include_all_commits=true" /><!-- wi*quL3fcV -->
     <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehenke&layout=compact&langs_count=6&theme=gotham&hide_border=true" />
 </a>
