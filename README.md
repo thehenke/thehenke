@@ -1,117 +1,79 @@
-## Hi there 👋
+# Hi, I'm Gabriel Henke 👋
+
+**Staff Machine Learning Engineer | AI Applied Researcher**
+
+<a href="https://www.linkedin.com/in/gabriel-henke" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gabrielchicao3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 ## About Me
 
-I am an versatile engineering professional with experience in data engineering, data science and software engineering, specializing in financial products such as credit, collections and fraud prevention, with previous experience in the context of communications, digital marketing and risk management. I am proficient in various tech platform solution topics, like GCP and AWS.
+I architect and deliver high-impact AI/ML systems at scale: multi-agent platforms, real-time ML infrastructure and LLM-powered products serving tens of thousands of requests per minute in production.
 
-- 💻 I’m Data Engineering Specialist at Grupo Boticario, and I am currently working with Python, SQL and various data tools within Google Cloud Platform.
-- 🚀 I’m a MsC Computer Science student and I has been exploring AI Engineering area, LLMs, Generative AI, Transformers.
-- 📖 I’m currently learning about Retrieval Augmented Generation (RAG) and LLMOps implementation.
+- 🤖 Staff Machine Learning Engineer at **PicPay**, leading the architecture of a customer-facing multi-agent CX assistant and the company's LLM & MCP Gateway.
+- 🎓 MSc in Computer Science at **UNESP**, researching Multi-Agent Systems, RAG, LLMs and Explainable AI.
+- 🔬 Currently exploring agentic frameworks, prompt optimization (DSPy / GEPA) and LLMOps.
+- ☁️ Google Cloud certified: Professional Machine Learning Engineer & Generative AI Leader.
 
 ## Tech Stack
-### Languages
-<a href="https://www.python.org" target="_blank"> 
-    <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" title="Python" alt="python" height="42px"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img  align="left" src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="javascript" height="42px" />
-</a>
-<a href="https://www.java.com" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="java" height="42px"/> 
-</a>
-<a href="https://learn.microsoft.com/en-us/sql/" target="_blank"> 
-    <img align="left" src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/sql-db.svg" title="SQL" alt="sql" height="42px"/> 
+
+### AI & Agents
+
+<p>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+    <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI"/>
+    <img src="https://img.shields.io/badge/DSPy-8B1E1E?style=for-the-badge" alt="DSPy"/>
+    <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
+    <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+    <img src="https://img.shields.io/badge/RAG%20%26%20Hybrid%20Search-6E56CF?style=for-the-badge" alt="RAG and Hybrid Search"/>
+    <img src="https://img.shields.io/badge/LLMOps-0F766E?style=for-the-badge" alt="LLMOps"/>
+    <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow"/>
+</p>
+
+### Languages, Cloud & Platform
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,r,gcp,aws,kafka,docker,kubernetes,fastapi,flask,nodejs,graphql,react,git,postman,grafana,prometheus,sklearn&perline=10" alt="Languages, cloud and platform icons"/>
 </a>
 
-<br><br>
+<p>
+    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+    <img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Dataflow"/>
+    <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Pub/Sub"/>
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+    <img src="https://img.shields.io/badge/Apache%20Beam-F26628?style=for-the-badge" alt="Apache Beam"/>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+    <img src="https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Dataproc"/>
+    <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
+</p>
+
+### Observability & BI
+
+<p>
+    <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black" alt="New Relic"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white" alt="Tableau"/>
+</p>
 
 ### Databases
 
-<a href="https://cloud.google.com/bigquery" target="_blank"> 
-    <img align="left" src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigquery.svg" title="BigQuery" alt="bigquery" height="42px"/> 
-</a>
-<a href="https://cloud.google.com/bigtable" target="_blank"> 
-    <img align="left" src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg" title="BigTable" alt="bigtable" height="42px"/> 
-</a>
-<a href="https://cloud.google.com/vertex-ai" target="_blank"> 
-    <img align="left" src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/vertexai.svg" title="Feature Store" alt="featurestore" height="42px"/> 
-</a>
-<a href="https://aws.amazon.com/dynamodb/" target="_blank"> 
-    <img align="left" src="https://github.com/detain/svg-logos/blob/master/svg/a/aws-dynamodb.svg" title="DynamoDB" alt="dynamodb" height="42px"/> 
-</a>
-<a href="https://www.postgresql.org/" target="_blank"> 
-    <img align="left" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/postgres.svg" title="PostgreSQL" alt="postgresql" height="42px"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank"> 
-    <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg" title="MySQL" alt="mysql" height="42px"/> 
-</a>
-<a href="https://www.mongodb.com/" target="_blank"> 
-    <img  align="left" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="mongodb" height="42px" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,sqlite,dynamodb,elasticsearch&perline=9" alt="Database icons"/>
 </a>
 
-<br><br>
-
-### Cloud Computing
-
-<a href="https://aws.amazon.com/" target="_blank">
-    <img  align="left" src="https://skillicons.dev/icons?i=aws" title="AWS" alt="aws" height="42px" />
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-    <img  align="left" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="googlecloud" height="42px" />
-</a>
-
-<br><br>
-
-### Tools & Frameworks
-<a href="https://spark.apache.org/" target="_blank"> 
-    <img align="left" src="https://github.com/gilbarbara/logos/blob/main/logos/airflow-icon.svg" title="Airflow" alt="airflow" height="42"/> 
-</a>
-<a href="https://spark.apache.org/" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" title="Apache Spark" alt="spark" height="42px"/> 
-</a>
-<a href="https://beam.apache.org/" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" title="Apache Beam" alt="beam" height="42px"/> 
-</a>
-<a href="https://kafka.apache.org/" target="_blank"> 
-    <img align="left "src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" alt="kafka" height="42px" />
-</a>
-
-<a href="https://www.docker.com/" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="docker" height="42px"/> 
-</a>
-
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> 
-    <img  align="left" src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" height="42px" />
-</a>
-
-<a href="https://graphql.org/" target="_blank"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="GraphQL" alt="graphql" height="42px"/> 
-</a>
-
-<a href="https://nodejs.org/en" target="_blank">
-    <img  align="left" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="nodejs" height="42px" />
-</a>
-
-#### ML & AI 
-
-<a href="https://huggingface.co" target="_blank">
-    <img align="left" src="icons/huggingface-color.svg" title="HuggingFace" alt="huggingface" height="42px">
-</a>
-<a href="https://scikit-learn.org/stable/" target="_blank">
-    <img align="left" src="icons/scikitlearn-color.svg" title="Scikit-Learn" alt="scikitlearn" height="42px">
-</a>
-<a href="https://scikit-learn.org/stable/" target="_blank">
-    <img align="left" src="icons/langchain-color.svg" title="LangChain" alt="langchain" height="42px">
-</a>
-
-<br><br>
+<p>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server"/>
+    <img src="https://img.shields.io/badge/BigTable-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigTable"/>
+    <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch"/>
+</p>
 
 ## GitHub Stats
-<!-- ![thehenke's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehenke&show_icons=true&theme=gotham) -->
 
-
-
-<a href="">
-    <img height="167px" src="https://github-readme-stats.vercel.app/api?username=thehenke&hide_border=true&show_icons=true&theme=dark&hide&include_all_commits=true" /><!-- wi*quL3fcV -->
-    <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehenke&layout=compact&langs_count=6&theme=dark&hide&hide_border=true&include_all_commits=true" />
-</a>
+<img height="167px" src="https://github-readme-stats.vercel.app/api?username=thehenke&hide_border=true&show_icons=true&theme=dark&include_all_commits=true" />
+<img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehenke&layout=compact&langs_count=6&theme=dark&hide_border=true" />
