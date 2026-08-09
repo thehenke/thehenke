@@ -28,7 +28,15 @@ I architect and deliver high-impact AI/ML systems at scale: multi-agent platform
     <a href="https://www.kubeflow.org/" target="_blank"><img src="icons/kubeflow.svg" title="Kubeflow" alt="Kubeflow" height="48"/></a>
 </p>
 
-`Multi-Agent Systems` `A2A` `RAG & Hybrid Search` `Google ADK` `DSPy / GEPA` `Evals & Guardrails` `LLMOps`
+<p>
+    <a href="https://google.github.io/adk-docs/" target="_blank"><img src="https://img.shields.io/badge/Google%20ADK-000000?style=for-the-badge&logoColor=white" title="Google Agent Development Kit" alt="Google ADK"/></a>
+    <a href="https://dspy.ai/" target="_blank"><img src="https://img.shields.io/badge/DSPy%20%2F%20GEPA-000000?style=for-the-badge" title="DSPy and GEPA prompt optimization" alt="DSPy / GEPA"/></a>
+    <a href="https://a2a-protocol.org/" target="_blank"><img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge" title="Agent-to-Agent protocol" alt="A2A"/></a>
+    <img src="https://img.shields.io/badge/Multi--Agent%20Systems-000000?style=for-the-badge" title="Multi-Agent Systems" alt="Multi-Agent Systems"/>
+    <img src="https://img.shields.io/badge/RAG%20%26%20Hybrid%20Search-000000?style=for-the-badge" title="Retrieval-Augmented Generation with semantic, lexical and hybrid search" alt="RAG and Hybrid Search"/>
+    <img src="https://img.shields.io/badge/Evals%20%26%20Guardrails-000000?style=for-the-badge" title="LLM evaluation and guardrails" alt="Evals and Guardrails"/>
+    <img src="https://img.shields.io/badge/LLMOps-000000?style=for-the-badge" title="LLMOps" alt="LLMOps"/>
+</p>
 
 ## 💻 Languages
 
